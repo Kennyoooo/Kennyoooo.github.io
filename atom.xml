@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kennyoooo.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-06-18T03:54:19.089Z</updated>
+    <title>Kenny&apos;s GitPages</title>
+    <updated>2019-06-18T04:23:58.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kennyoooo.github.io/"/>
     <link rel="self" href="https://kennyoooo.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Blog.</subtitle>
     <logo>https://kennyoooo.github.io//images/avatar.png</logo>
     <icon>https://kennyoooo.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Kenny&apos;s GitPages</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://kennyoooo.github.io//post/hello-gridea</id>
